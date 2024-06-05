@@ -1,4 +1,4 @@
-# App Landing Page - Finance Bank Money
+# App Landing Page - Uifry
 
 This is a landing page created as an assessment for a front-end developer position. The design is based on a Figma design provided to me, which can be found [here](https://www.figma.com/design/9DMhi8ykIzXvwr6Mu0S3ai/App-Landing-Page-Finance-Bank-Money-(Community)?node-id=0-1&t=hODtJJEhRpqwprIH-0).
 
