@@ -1,0 +1,15 @@
+.image-container {
+  @apply relative overflow-x-clip h-full hidden sm:block;
+}
+
+.image-container > img:first-child {
+  @apply absolute top-0 left-56;
+}
+
+.image-container > img:nth-child(2) {
+  @apply absolute -top-16 left-24;
+}
+
+.image-container > img:nth-child(3) {
+  @apply absolute -top-32 -left-8;
+}
